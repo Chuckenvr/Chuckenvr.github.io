@@ -7,6 +7,6 @@ Helo
 
 [meh discord,](https://discord.gg/5YKrS55hg5)
 
-[Games](https://discord.gg/5YKrS55hg5)
+[Games](https://github.com/Chuckenvr/Chuckenvr.github.io/blob/main/Games.html)
 
 ![Epik picture](epikscrenshot.png)
