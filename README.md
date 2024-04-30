@@ -7,4 +7,6 @@ Helo
 
 [meh discord,](https://discord.gg/5YKrS55hg5)
 
+[Games](https://discord.gg/5YKrS55hg5)
+
 ![Epik picture](epikscrenshot.png)
